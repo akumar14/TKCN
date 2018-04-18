@@ -22,4 +22,17 @@ local contextual information. To tackle this issue, we firstly propose a novel K
   <img src="img/TFA_module.png" width="600"><br><br>
 </div>
 
-### Result
+## Performance
+
+### Results on PASCAL VOC 2012
+<div align="center">
+  <img src="img/voc_result.png" width="600"><br><br>
+</div>
+### Results on Cityscapes
+<div align="center">
+  <img src="img/cityscapes_result.png" width="600"><br><br>
+</div>
+### Results on PASCAL-Context
+<div align="center">
+  <img src="img/pascalcontext.png" width="600"><br><br>
+</div>
