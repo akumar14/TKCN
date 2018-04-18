@@ -12,15 +12,6 @@ local contextual information. To tackle this issue, we firstly propose a novel K
   <img src="img/ArchOfNetwork.png" width="600"><br><br>
 </div>
 
-### Kronecker Convolution
-<div align="center">
-  <img src="img/KConv.png" width="600"><br><br>
-</div>
-
-### TFA module
-<div align="center">
-  <img src="img/TFA_module.png" width="600"><br><br>
-</div>
 
 ## Performance
 
