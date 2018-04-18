@@ -1,5 +1,5 @@
 # Tree-structured Kronecker ConvolutionalNetworks for Semantic Segmentation
-
+(submitted in ECCV-18)
 
 ### Abstract
 Most existing semantic segmentation methods employ atrous convolution to enlarge the receptive field of filters, but neglect important
