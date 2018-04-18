@@ -22,17 +22,15 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 
 ## Performance
 
-### Results on Cityscapes
-<div align="center">
-  <img src="img/cityscapes_result.png" width="600"><br><br>
+## Results on Cityscapes
+<div align="left">
+  <img src="img/cityscapes_result.png" width="650"><br><br>
 </div>
 
-### Results on PASCAL VOC 2012
+## Results on PASCAL VOC 2012
 ![example](img/voc_result.png)
 
 
-### Results on PASCAL-Context
+## Results on PASCAL-Context
 ![example](img/pascalcontext.png)
-<div align="center">
-  <img src="img/pascalcontext.png" width="600"><br><br>
-</div>
+
