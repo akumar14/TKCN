@@ -26,18 +26,18 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 ### Results on PASCAL VOC 2012
 
 <div align="left">
-  <img src="img/voc12_result.png" width="650"><br><br>
+  <img src="img/voc12_result.png" width="700"><br><br>
 </div>
 
 ### Results on Cityscapes
 <div align="left">
-  <img src="img/cityscapes_result.png" width="650"><br><br>
+  <img src="img/cityscapes_result.png" width="700"><br><br>
 </div>
 
 ### Results on PASCAL-Context
 
 <div align="left">
-  <img src="img/pascalcontext_result.png" width="650"><br><br>
+  <img src="img/pascalcontext_result.png" width="700"><br><br>
 </div>
 
 
