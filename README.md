@@ -7,8 +7,9 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 
 
 ## Proposed Approach
-![example](img/ArchOfNetwork.png)
-
+<div align="left">
+  <img src="img/ArchOfNetwork.png" width="650"><br><br>
+</div>
 
 ### Kronecker Convolution
 <div align="left">
@@ -28,9 +29,15 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 </div>
 
 ## Results on PASCAL VOC 2012
-![example](img/voc_result.png)
 
+<div align="left">
+  <img src="img/voc_result.png" width="650"><br><br>
+</div>
 
 ## Results on PASCAL-Context
-![example](img/pascalcontext.png)
+
+<div align="left">
+  <img src="img/pascalcontext_result.png" width="650"><br><br>
+</div>
+
 
