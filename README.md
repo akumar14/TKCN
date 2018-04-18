@@ -12,12 +12,12 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 
 ### Kronecker Convolution
 <div align="left">
-  <img src="img/KConv.png" width="600"><br><br>
+  <img src="img/KConv.png" width="650"><br><br>
 </div>
 
 ### TFA module
 <div align="center">
-  <img src="img/TFA_module.png" width="600"><br><br>
+  <img src="img/TFA_module.png" width="650"><br><br>
 </div>
 
 ## Performance
@@ -28,11 +28,11 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 </div>
 
 ### Results on PASCAL VOC 2012
-<div align="center">
-  <img src="img/voc_result.png" width="600"><br><br>
-</div>
+![example](img/voc_result.png)
+
 
 ### Results on PASCAL-Context
+![example](img/pascalcontext.png)
 <div align="center">
   <img src="img/pascalcontext.png" width="600"><br><br>
 </div>
