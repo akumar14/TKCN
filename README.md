@@ -9,7 +9,7 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 ### Approach
 
 <div align="center">
-  <img src="img/ArchOfNetwork.png" width="400"><br><br>
+  <img src="img/ArchOfNetwork.png" width="800"><br><br>
 </div>
 
 ### Result
