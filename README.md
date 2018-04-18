@@ -17,7 +17,7 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 </div>
 
 ### TFA module
-<div align="center">
+<div align="left">
   <img src="img/TFA_module.png" width="650"><br><br>
 </div>
 
