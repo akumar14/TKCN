@@ -8,17 +8,17 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 
 ## Proposed Approach
 <div align="left">
-  <img src="img/ArchOfNetwork.png" width="650"><br><br>
+  <img src="img/ArchOfNetwork.png" width="700"><br><br>
 </div>
 
 ### Kronecker Convolution
 <div align="left">
-  <img src="img/KConv.png" width="650"><br><br>
+  <img src="img/KConv.png" width="700"><br><br>
 </div>
 
 ### TFA module
 <div align="left">
-  <img src="img/TFA_module.png" width="650"><br><br>
+  <img src="img/TFA_module.png" width="700"><br><br>
 </div>
 
 ## Performance
