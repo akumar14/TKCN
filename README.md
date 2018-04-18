@@ -24,14 +24,14 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 
 ## Performance
 
-### Results on PASCAL VOC 2012
-<div align="center">
-  <img src="img/voc_result.png" width="600"><br><br>
-</div>
-
 ### Results on Cityscapes
 <div align="center">
   <img src="img/cityscapes_result.png" width="600"><br><br>
+</div>
+
+### Results on PASCAL VOC 2012
+<div align="center">
+  <img src="img/voc_result.png" width="600"><br><br>
 </div>
 
 ### Results on PASCAL-Context
