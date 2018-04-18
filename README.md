@@ -11,7 +11,7 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 
 
 ### Kronecker Convolution
-<div align="center">
+<div align="left">
   <img src="img/KConv.png" width="600"><br><br>
 </div>
 
