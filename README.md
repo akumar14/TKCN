@@ -31,6 +31,7 @@ result link: http://host.robots.ox.ac.uk:8080/anonymous/4PNBNN.html
 </div>
 
 ### Results on Cityscapes
+result link: https://www.cityscapes-dataset.com/method-details/?submissionID=1263&back=mysubmissions
 <div align="left">
   <img src="img/cityscapes_result.png" width="700"><br><br>
 </div>
