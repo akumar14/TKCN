@@ -43,7 +43,9 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
    cd TKCN
    python setup.py install
    ```
-3. Dataset Configuration
+3. Pretrained model
+   The pretrained model ImageNet_ResNet-101 can be available at [here](https://pan.baidu.com/s/13hhr4xFpp7ldjVJbpX1m4Q). Put it under the folder "./TKCN/tkcn/pretrained_models".
+4. Dataset Configuration
 
   - Download the [Cityscapes](https://www.cityscapes-dataset.com/) dataset and convert the dataset to [19 categories](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py). It should have this basic structure. 
   
