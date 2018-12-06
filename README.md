@@ -13,9 +13,9 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 </div>
 
 ## Performance
-For VOC 2012, we evaluate the proposed TKCN model on test set without external data such as COCO dataset. 
+**For VOC 2012, we evaluate the proposed TKCN model on test set without external data such as COCO dataset. **
 
-For Cityscapes, the proposed TKCN only trains with the fine-labeled set.
+**For Cityscapes, the proposed TKCN only trains with the fine-labeled set.**
 
 Method | Conference | Backbone | PASCAL VOC 2012 </br> test set  |Cityscapes </br> test set | PASCAL-Context </br> val set
 ---- | --- | --- | --- | --- | --- 
