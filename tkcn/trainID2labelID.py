@@ -32,6 +32,6 @@ def trainIDs2LabelID(trainID_png_dir, save_dir):
 
 
 if __name__ == '__main__':
-     trainID_png_dir  = './cityscapes/seg_predictions_checkpoint_240_ss_1536'
-     save_dir =  './cityscapes/seg_predictions_checkpoint_240_ss_1536_submit/'
+     trainID_png_dir  = './cityscapes/seg_predictions'
+     save_dir =  './cityscapes/seg_predictions_submit/'
      trainIDs2LabelID(trainID_png_dir, save_dir)
