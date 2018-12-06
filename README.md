@@ -31,7 +31,7 @@ DFN       |  CVPR2018  | ResNet-101  | 82.7   | 79.3   | -
 DSSPN     |  CVPR2018  | ResNet-101  |-       | 77.8   | -
 CCL       |  CVPR2018  | ResNet-101  |-       | -      | 51.6
 EncNet    |  CVPR2018  | ResNet-101  | 82.9   | -      | 51.7
-DenseASPP |  CVPR2018  | DenseNet-201 |-      | 80.6   | -
+DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 **TKCN**  |           -| ResNet-101  | **83.2** | 79.5   | **51.8**
 
 
