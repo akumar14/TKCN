@@ -28,6 +28,8 @@ BiSeNet |   ECCV2018  | ResNet-101  |-  |78.9|-
 PSANet |  ECCV2018  | ResNet-101  |-  |80.1| -
 DFN  |  CVPR2018  | ResNet-101  |-  |79.3 |-
 DSSPN | CVPR2018  | ResNet-101  |- |77.8 |-
+CCL | CVPR2018  | ResNet-101  |- | - | 51.6
+EncNet | CVPR2018  | ResNet-101  |- | - |51.7
 DenseASPP  |  CVPR2018  | DenseNet-161  |- | 80.6|-
-TKCN       | -|  ResNet-101 | - | 79.5 |-
+TKCN       | -|  ResNet-101 | - | 79.5 | 51.8
 
