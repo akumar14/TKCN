@@ -13,24 +13,20 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 </div>
 
 ## Performance
+For VOC 2012, we 
+For Cityscapes, the proposed TKCN only trains with the fine-labeled set.
 
-### Results on PASCAL VOC 2012
-result link: http://host.robots.ox.ac.uk:8080/anonymous/4PNBNN.html
-
-<div align="left">
-  <img src="img/voc12_result.png" width="700"><br><br>
-</div>
-
-### Results on Cityscapes
-result link: https://www.cityscapes-dataset.com/method-details/?submissionID=1263&back=mysubmissions
-<div align="left">
-  <img src="img/cityscapes_result.png" width="700"><br><br>
-</div>
-
-### Results on PASCAL-Context
-
-<div align="left">
-  <img src="img/pascalcontext_result.png" width="700"><br><br>
-</div>
+Method | Conference | Backbone | PASCAL VOC 2012 |Cityscapes | PASCAL-Context
+---- | --- | --- | --- | --- | --- | --- 
+RefineNet |  CVPR2017  | ResNet-101  |  | 73.6 | 
+SAC  |  ICCV2017  | ResNet-101  |  | 78.1  |
+PSPNet |  CVPR2017  | ResNet-101  |  |78.4 |
+DUC-HDC | WACV2018 | ResNet-101 | |77.6 | 
+AAF |   ECCV2018  | ResNet-101  |  |77.1 |
+BiSeNet |   ECCV2018  | ResNet-101  |  |78.9| 
+PSANet |  ECCV2018  | ResNet-101  |  |80.1| 
+DFN  |  CVPR2018  | ResNet-101  |  |79.3 |
+DSSPN | CVPR2018  | ResNet-101  | |77.8 |
+DenseASPP  |  CVPR2018  | DenseNet-161  | | 80.6|
 
 
