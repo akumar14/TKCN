@@ -91,7 +91,16 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
   ```
   - For testing, the pretrained model file can be downloaded here: [tkcn_cityscapes_checkpoint_240_ontrainval.pth](https://pan.baidu.com/s/1xTYK2uZ1Aey-oDShdPuOZw)
   
-  
+
+  ## Citation
+If TKCN is useful for your research, please consider citing:
+```
+ 
+```
+  ## License
+
+This code is released under the MIT License. See [LICENSE](LICENSE) for additional details.
+
 ## Thanks to the Third Party Libs
 https://github.com/zhanghang1989/PyTorch-Encoding
 
