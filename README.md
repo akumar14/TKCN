@@ -13,9 +13,9 @@ local contextual information. To tackle this issue, we firstly propose a novel K
 </div>
 
 ## Performance
-For VOC 2012, we evaluate the proposed TKCN model on test set **without external data such as COCO dataset. **
+For VOC 2012, we evaluate the proposed TKCN model on test set without external data such as COCO dataset. 
 
-For Cityscapes, the proposed TKCN **only trains with the fine-labeled set.**
+For Cityscapes, the proposed TKCN **only trains with the fine-labeled set.
 
 Method | Conference | Backbone | PASCAL VOC 2012 </br> test set  |Cityscapes </br> test set | PASCAL-Context </br> val set
 ---- | --- | --- | --- | --- | --- 
@@ -34,3 +34,6 @@ EncNet    |  CVPR2018  | ResNet-101  | 82.9   | -      | 51.7
 DenseASPP |  CVPR2018  | DenseNet-201 |-      | 80.6   | -
 **TKCN**  |           -| ResNet-101  | 83.2   | 79.5   | 51.8
 
+
+## Thanks to the Third Party Libs
+[PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
