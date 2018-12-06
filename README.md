@@ -45,7 +45,7 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
    ```
 3. Dataset Configuration
 
-  - Download the [Cityscapes](https://www.cityscapes-dataset.com/) dataset and convert the dataset to [19 categories](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py). It should have this basic structure. These .txt files can be downloaded from [here](https://github.com/wutianyiRosun/Semantic_segmentation_datasets/tree/master/Cityscapes)
+  - Download the [Cityscapes](https://www.cityscapes-dataset.com/) dataset and convert the dataset to [19 categories](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py). It should have this basic structure. 
   
   ```
 ├── cityscapes_test_list.txt
@@ -68,6 +68,6 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 ├── license.txt
 
   ```
-  
+  - These .txt files can be downloaded from [here](https://github.com/wutianyiRosun/Semantic_segmentation_datasets/tree/master/Cityscapes) 
 ## Thanks to the Third Party Libs
 [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
