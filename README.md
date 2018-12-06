@@ -87,7 +87,7 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
   ```
     CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python eval.py  --model tkcnet --backbone resnet101  --multi-scales  --resume-dir cityscapes/model/tkcnet_model_resnet101_cityscapes_gpu6bs6epochs240/TKCNet101 --resume-file checkpoint_240.pth.tar
   ```
-  - model file download: [tkcn_cityscapes_checkpoint_240.pth.tar](https://pan.baidu.com/s/1x7LEunjweoDvb_-xNQmFAg)
+  - For testing, the pretrained model file can be downloaded here: [tkcn_cityscapes_checkpoint_240_ontrainval.pth](https://pan.baidu.com/s/1xTYK2uZ1Aey-oDShdPuOZw)
   
   
 ## Thanks to the Third Party Libs
