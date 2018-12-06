@@ -106,3 +106,5 @@ https://github.com/zhanghang1989/PyTorch-Encoding
 
 https://github.com/junfu1115/DANet
 
+##Note
+The original code for TKCN is based on CAFFE, which will be released later.
