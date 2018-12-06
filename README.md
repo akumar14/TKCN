@@ -81,8 +81,8 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 
   2. single-scale testing (on test set)
   ```
-    CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python eval.py  --model tkcnet --backbone resnet101 \ 
-    --resume-dir cityscapes/model/tkcnet_model_resnet101_cityscapes_gpu6bs6epochs240/TKCNet101 \
+    CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python eval.py  --model tkcnet --backbone resnet101 
+    --resume-dir cityscapes/model/tkcnet_model_resnet101_cityscapes_gpu6bs6epochs240/TKCNet101 
     --resume-file checkpoint_240.pth.tar
   ```
   3. multi-scale testing (on test set)
