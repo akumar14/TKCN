@@ -19,17 +19,18 @@ For Cityscapes, the proposed TKCN only trains with the fine-labeled set.
 
 Method | Conference | Backbone | PASCAL VOC 2012 </br> test set  |Cityscapes </br> test set | PASCAL-Context </br> val set
 ---- | --- | --- | --- | --- | --- 
-RefineNet |  CVPR2017  | ResNet-101  |-  | 73.6 |- 
-SAC  |  ICCV2017  | ResNet-101  |-  | 78.1  |-
-PSPNet |  CVPR2017  | ResNet-101  |-  |78.4 |-
-DUC-HDC | WACV2018 | ResNet-101 |- |77.6 | -
-AAF |   ECCV2018  | ResNet-101  | - |77.1 |-
-BiSeNet |   ECCV2018  | ResNet-101  |-  |78.9|- 
-PSANet |  ECCV2018  | ResNet-101  |-  |80.1| -
-DFN  |  CVPR2018  | ResNet-101  |-  |79.3 |-
-DSSPN | CVPR2018  | ResNet-101  |- |77.8 |-
-CCL | CVPR2018  | ResNet-101  |- | - | 51.6
-EncNet | CVPR2018  | ResNet-101  |- | - |51.7
-DenseASPP  |  CVPR2018  | DenseNet-161  |- | 80.6|-
-TKCN       | -|  ResNet-101 | - | 79.5 | 51.8
+DeepLabv2 |-           | ResNet-101  | 79.7   | 70.4   | 45.7
+RefineNet |  CVPR2017  | ResNet-101  | 82.4   | 73.6   | 47.1 
+SAC       |  ICCV2017  | ResNet-101  | -      | 78.1   | -
+PSPNet    |  CVPR2017  | ResNet-101  | -      | 78.4   | -
+DUC-HDC   |  WACV2018  | ResNet-101  | -      | 77.6   | -
+AAF       |  ECCV2018  | ResNet-101  | -      | 77.1   | -
+BiSeNet   |  ECCV2018  | ResNet-101  | -      | 78.9   | - 
+PSANet    |  ECCV2018  | ResNet-101  |-       | 80.1   | -
+DFN       |  CVPR2018  | ResNet-101  | 82.7   | 79.3   | -
+DSSPN     |  CVPR2018  | ResNet-101  |-       | 77.8   | -
+CCL       |  CVPR2018  | ResNet-101  |-       | -      | 51.6
+EncNet    |  CVPR2018  | ResNet-101  | 82.9   | -      | 51.7
+DenseASPP |  CVPR2018  | DenseNet-161 |-      | 80.6   | -
+TKCN      |           -| ResNet-101  | 83.2   | 79.5   | 51.8
 
