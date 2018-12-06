@@ -17,7 +17,7 @@ For VOC 2012, we evaluate the proposed TKCN model on test set without external d
 
 For Cityscapes, the proposed TKCN only trains with the fine-labeled set.
 
-Method | Conference | Backbone | PASCAL VOC 2012 |Cityscapes | PASCAL-Context
+Method | Conference | Backbone | PASCAL VOC 2012 </br> test set  |Cityscapes | PASCAL-Context
 ---- | --- | --- | --- | --- | --- 
 RefineNet |  CVPR2017  | ResNet-101  |-  | 73.6 |- 
 SAC  |  ICCV2017  | ResNet-101  |-  | 78.1  |-
