@@ -22,9 +22,9 @@ Method | Conference | Backbone | PASCAL VOC 2012 </br> test set  |Cityscapes </b
 DeepLabv2 |-           | ResNet-101  | 79.7   | 70.4   | 45.7
 RefineNet |  CVPR2017  | ResNet-101  | 82.4   | 73.6   | 47.1 
 SAC       |  ICCV2017  | ResNet-101  | -      | 78.1   | -
-PSPNet    |  CVPR2017  | ResNet-101  | -      | 78.4   | -
+PSPNet    |  CVPR2017  | ResNet-101  | 82.6   | 78.4   | 47.8
 DUC-HDC   |  WACV2018  | ResNet-101  | -      | 77.6   | -
-AAF       |  ECCV2018  | ResNet-101  | -      | 77.1   | -
+AAF       |  ECCV2018  | ResNet-101  | 82.2    |79.1   | -
 BiSeNet   |  ECCV2018  | ResNet-101  | -      | 78.9   | - 
 PSANet    |  ECCV2018  | ResNet-101  |-       | 80.1   | -
 DFN       |  CVPR2018  | ResNet-101  | 82.7   | 79.3   | -
