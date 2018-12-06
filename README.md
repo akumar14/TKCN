@@ -34,6 +34,40 @@ EncNet    |  CVPR2018  | ResNet-101  | 82.9   | -      | 51.7
 DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 **TKCN**  |           -| ResNet-101  | **83.2** | 79.5   | **51.8**
 
+## Installation
+1. Install PyTorch
+  - The code is developed on python3.6.6 on Ubuntu 16.04. (GPU: Tesla K80; PyTorch: 0.5.0a0+a24163a; Cuda: 8.0)
+2. Clone the repository
+   ```shell
+   git clone https://github.com/wutianyiRosun/TKCN.git 
+   cd TKCN
+   python setup.py install
+   ```
+3. Dataset Configuration
 
+  - Download the [Cityscapes](https://www.cityscapes-dataset.com/) dataset and convert the dataset to [19 categories](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py). It should have this basic structure. These .txt files can be downloaded from (here)[https://github.com/wutianyiRosun/Semantic_segmentation_datasets/tree/master/Cityscapes]
+  
+  ```
+├── cityscapes_test_list.txt
+├── cityscapes_train_list.txt
+├── cityscapes_trainval_list.txt
+├── cityscapes_val_list.txt
+├── cityscapes_val.txt
+├── gtCoarse
+│   ├── train
+│   ├── train_extra
+│   └── val
+├── gtFine
+│   ├── test
+│   ├── train
+│   └── val
+├── leftImg8bit
+│   ├── test
+│   ├── train
+│   └── val
+├── license.txt
+
+  ```
+  
 ## Thanks to the Third Party Libs
 [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
