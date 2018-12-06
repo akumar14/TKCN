@@ -69,5 +69,20 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 
   ```
   - These .txt files can be downloaded from [here](https://github.com/wutianyiRosun/Semantic_segmentation_datasets/tree/master/Cityscapes) 
+  
+## Train your own model
+###  For Cityscapes
+  
+  1. training on train+val set
+  ```
+  cd tkcn
+  CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 python train.py  --model tkcnet --backbone resnet101 --multi-scales 0 
+  ```
+
+  2. single testing (on test set)
+  ```
+    CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python eval.py  --model tkcnet --backbone resnet101  --multi-scales 1
+  ```
+  - model file download: [model_cityscapes_train_on_trainvalset.pth](https://pan.baidu.com/s/1x7LEunjweoDvb_-xNQmFAg)
 ## Thanks to the Third Party Libs
 [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
