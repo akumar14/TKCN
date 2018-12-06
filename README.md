@@ -94,5 +94,6 @@ DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
   
 ## Thanks to the Third Party Libs
 https://github.com/zhanghang1989/PyTorch-Encoding
+
 https://github.com/junfu1115/DANet
 
