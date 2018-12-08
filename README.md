@@ -27,6 +27,7 @@ DUC-HDC   |  WACV2018  | ResNet-101  | -      | 77.6   | -
 AAF       |  ECCV2018  | ResNet-101  | 82.2    |79.1   | -
 BiSeNet   |  ECCV2018  | ResNet-101  | -      | 78.9   | - 
 PSANet    |  ECCV2018  | ResNet-101  |-       | 80.1   | -
+**DeepLabv3+**|  ECCV2018  | Xception    |89.0    |  -     | -
 DFN       |  CVPR2018  | ResNet-101  | 82.7   | 79.3   | -
 DSSPN     |  CVPR2018  | ResNet-101  |-       | 77.8   | -
 CCL       |  CVPR2018  | ResNet-101  |-       | -      | 51.6
@@ -34,6 +35,7 @@ EncNet    |  CVPR2018  | ResNet-101  | 82.9   | -      | 51.7
 DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 **TKCN**  |           -| ResNet-101  | **83.2** | 79.5   | **51.8**
 
+**Note that: DeepLabv3+ is pretrained on MS-COCO and JFT.**
 ## Installation
 1. Install PyTorch
   - The code is developed on python3.6.6 on Ubuntu 16.04. (GPU: Tesla K80; PyTorch: 0.5.0a0+a24163a; Cuda: 8.0)
