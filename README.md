@@ -27,7 +27,7 @@ DUC-HDC   |  WACV2018  | ResNet-101  | -      | 77.6   | -
 AAF       |  ECCV2018  | ResNet-101  | 82.2    |79.1   | -
 BiSeNet   |  ECCV2018  | ResNet-101  | -      | 78.9   | - 
 PSANet    |  ECCV2018  | ResNet-101  |-       | 80.1   | -
-**DeepLabv3+**|  ECCV2018  | Xception    |89.0    |  -     | -
+DeepLabv3+|  ECCV2018  | Xception    |89.0    |  -     | -
 DFN       |  CVPR2018  | ResNet-101  | 82.7   | 79.3   | -
 DSSPN     |  CVPR2018  | ResNet-101  |-       | 77.8   | -
 CCL       |  CVPR2018  | ResNet-101  |-       | -      | 51.6
