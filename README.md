@@ -35,7 +35,7 @@ EncNet    |  CVPR2018  | ResNet-101  | 82.9   | -      | 51.7
 DenseASPP |  CVPR2018  | DenseNet-201 |-      | **80.6**   | -
 **TKCN**  |           -| ResNet-101  | **83.2** | 79.5   | **51.8**
 
-**Note that: DeepLabv3+ employs a more powerful network (Xception) as the backbone and is pretrained on MS-COCO and JFT. "-" indicates that the approaches do not report the corresponding results.**
+**Note that: DeepLabv3+ employs a more powerful network (Xception) as the backbone and is pretrained on MS-COCO and JFT. "-" indicates that the approaches do not report the corresponding results. DenseASPP employs a more powerful backbone network (DenseNet).**
 ## Installation
 1. Install PyTorch
   - The code is developed on python3.6.6 on Ubuntu 16.04. (GPU: Tesla K80; PyTorch: 0.5.0a0+a24163a; Cuda: 8.0)
